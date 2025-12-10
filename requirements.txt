@@ -1,0 +1,1 @@
+pip install streamlit openai-whisper google-generativeai sqlalchemy pandas plotly
